@@ -74,7 +74,7 @@ Dans cet exemple, le contrôleur "UtilisateurController" appelle la méthode sta
 Cet exemple est simplifié, mais il illustre comment organiser le code en utilisant l'architecture MVC pour séparer les préoccupations et faciliter la maintenance et l'évolution de l'application.
 
 
-### architecture MVC en utilisant PHP et le framework Laravel :
+#  ArchitectureMVC en utilisant PHP et le framework Laravel
 
 1. Modèle (Model) :
 
